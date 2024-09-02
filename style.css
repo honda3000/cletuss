@@ -13,6 +13,7 @@
 body {
   font-family: "Roboto Mono", sans-serif;
   background-image: url(./img/fondo.gif);
+  background-size: cover;
   color: #ccc;
   font-size: 18px;
   line-height: 1.6;
